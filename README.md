@@ -1,0 +1,2 @@
+# TestPlugin
+First MCPE plugin
