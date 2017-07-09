@@ -1,0 +1,8 @@
+name: TestPlugin
+main: TestPlugin\Loader
+version: 1.0.0
+api: [3.0.0-ALPHA6]
+author: MysticSlayyer
+website: https://github.com/MysticSlayyer/TestPlugin
+
+permissons
